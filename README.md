@@ -1,3 +1,5 @@
+![usr-banner](https://github.com/matrixguy007/About-Optim/blob/main/IMG_20250302_163546.png)
+
 # 💫 About Me:
 • I'm a self taught coder who has very basic knowledge of codings, I know Bash, HTML & CSS (Still a noob XD).<br>• I create several Modules, App lists, App Modifications and more things I like.<br>• I love to play FPS, Arcade & Open World games like Soul knight, PUBG, Need For Speed and Gensin Impact and more.
 
